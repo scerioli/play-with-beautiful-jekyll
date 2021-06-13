@@ -1,16 +1,25 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Some random stuff to fill the page
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Italian physicist, living in Germany as Data Scientist. Passionate about data, feminism and horses
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My story in a few bullet point
 
-What else do you need?
+- Born in Italy in 1991
 
-### My story
+- Said the word "Horse" before saying "Mama"
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Wanted to become a soldier or a priest because girls were not supposed to be part of the Army or the Church. Grrrlz Power!
+
+- But this was before understanding that I don't like either the Army or the Church
+
+- Grown up as a Physicist (Particle Physicist, to be precise)
+
+- After Master Degree, went to Hamburg for a (failing) PhD in Physics
+
+- Now a Data Scientist since 2019 with ongoing projects
+
+- Stay tuned for the next bullet point
