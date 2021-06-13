@@ -228,6 +228,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - beautiful-jekyll-theme.gemspec
 
 plugins:
   - jekyll-paginate
