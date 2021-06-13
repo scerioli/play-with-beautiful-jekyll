@@ -8,6 +8,16 @@
 # Name of website
 title: Let's try another Jekyll Theme
 
+# Short description of your site
+description: A virtual proof that I'm awesome
+
+# GitHub Actions
+repository: "VincentTam/beautiful-jekyll"
+
+# --- Local development options ---
+# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
+# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
+
 # Your name to show in the footer
 author: Sara Cerioli
 
@@ -174,10 +184,10 @@ footer-link-col: "#404040"
 # https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further 
 # instructions. For any support with staticman please direct questions to staticman and 
 # not to BeautifulJekyll.
-#staticman:
-#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-#  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
+staticman:
+  repository : vincenttam/beautiful-jekyll # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch     : gh-pages # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  endpoint   : https://secretman3.herokuapp.com/v3/entry/github/ # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
 #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
@@ -233,6 +243,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+remote_theme: daattali/beautiful-jekyll@5.0.0
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
